@@ -4,12 +4,12 @@
 
 | Файл | Размер | SHA-256 |
 |---|---|---|
-| `MindForge.Quiz.zip` | 129.56 МБ | `c69c550d7b8982c06cf158f11de406e38afb4e2b6791a40d1f726f59770fbb4f` |
-| `MindForge.Quiz.Android.apk` | 3.53 МБ | `ef40cc98fdddefa95537c659fc16bc837aeb35acce197ff6ccd2530fa962f299` |
-| `QuizForge.Studio.zip` | 129.56 МБ | `67226447aa3f978522a730aac8ee3b86e902b76a90ad4b04c513f1c344da6747` |
-| `QuizForge.Studio.Android.apk` | 3.53 МБ | `bb7669326b8eb1fabcc59cb3a28a402b53576921d735fcd66bae863a1192632c` |
-| `MindForge.Admin.zip` | 129.57 МБ | `483826523ff1546ed02bf689b0f7fe946c3c26f3de899775064061a7ef019fbc` |
-| `MindForge.Admin.Android.apk` | 3.53 МБ | `460e84f361ac5bd7fd8684774f339e18a117fc123ec65e0839cecf71c2e7e056` |
+| `MindForge.Quiz.zip` | 129.56 МБ | `a6d744fd71267a8119c71a19904ba1ff0fcd33e18178c60ca15d12657496f66b` |
+| `MindForge.Quiz.Android.apk` | 3.53 МБ | `7c042baf95e0329ee6d7036b50eeb1c4bd7a451fe86d7e0385d0726763745ed0` |
+| `QuizForge.Studio.zip` | 129.56 МБ | `72aac687743975dcfef5970b2d6d551e96b0aa9438cd4735eac11669b9c3f651` |
+| `QuizForge.Studio.Android.apk` | 3.53 МБ | `c67050d4fdef694de4708d4bea6fa53448d21d7a484909947ddca5555ba7c7db` |
+| `MindForge.Admin.zip` | 129.57 МБ | `68804257b48fbc0c0382f7738247685d78fc91a83b07eacd0573d54151e7f821` |
+| `MindForge.Admin.Android.apk` | 3.53 МБ | `edc976e1d33154a206e5770b7fd29e97e197fdab85f6217f121c60750a2d072d` |
 
 Прямые ссылки:
 
